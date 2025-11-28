@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Anshul%20Chauhan&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Python%20Developer%20%7C%20Frontend%20Designer%20%7C%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Anshul%20Chauhan&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Frontend%20Developer%20%7C%20Frontend%20Designer%20%7C%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 
 I'm Anshul Chauhan, a Computer Science student specializing in Frontend development, with hands-on experience in new technologies and modern web development.
@@ -45,7 +45,7 @@ I'm Anshul Chauhan, a Computer Science student specializing in Frontend developm
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,canva&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,aftereffects,canva&theme=light" />
   </a>
 </p>
 
