@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/beinganshulchauhan/beinganshulchauhan/blob/7e5a7dfdeb2e825585109bf5628e219b88943cf9/github-header-banner%20(1).png" alt="banner" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Anshul%20Chauhan&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Frontend%20Developer%20%7C%20Frontend%20Designer%20%7C%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 
 I'm Anshul Chauhan, a Computer Science student specializing in Frontend development, with hands-on experience in new technologies and modern web development.
