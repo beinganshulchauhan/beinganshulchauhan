@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/beinganshulchauhan/beinganshulchauhan/blob/7e5a7dfdeb2e825585109bf5628e219b88943cf9/github-header-banner%20(1).png" alt="banner" width="100%" />
+  <img src="https://github.com/beinganshulchauhan/beinganshulchauhan/blob/026400fb85bf7e7b3dbaa727c949337211cf5d5b/github-header-banner%20(1).png" alt="banner" width="100%" />
 </p>
 
 
@@ -70,4 +70,4 @@ I'm Anshul Chauhan, a Computer Science student specializing in Frontend developm
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<p><img src="https://github.com/beinganshulchauhan/beinganshulchauhan/blob/026400fb85bf7e7b3dbaa727c949337211cf5d5b/github-header-banner.png    " /></p>
