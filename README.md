@@ -70,4 +70,4 @@ I'm Anshul Chauhan, a Computer Science student specializing in Frontend developm
 
 ---
 
-<p><img src="https://github.com/beinganshulchauhan/beinganshulchauhan/blob/026400fb85bf7e7b3dbaa727c949337211cf5d5b/github-header-banner.png    " /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
