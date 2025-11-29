@@ -9,7 +9,10 @@ I'm Anshul Chauhan, a Computer Science student specializing in Frontend developm
 ---
 
 <div align="center">
-    <picture><img src="https://github.com/beinganshulchauhan/beinganshulchauhan/blob/6568f65ed00f51a662f89cd52aae1810fc4ef958/Kentaro%20Miura%20Crying%20GIF.gif" align="center" style="width: 80%" /><picture>
+   <p align="center">
+  <img src="https://github.com/beinganshulchauhan/beinganshulchauhan/blob/8168a954fe5784f6087451cdcebc2e2533cde085/standard.gif" alt="banner" width="100%" />
+</p>
+
 </div>
 
 ---
