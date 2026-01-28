@@ -41,7 +41,7 @@ I'm Anshul Chauhan, a Computer Science student specializing in Frontend developm
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,postgresql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,numpy,pandas,matplotlib,seaborn,postgresql&theme=light" />
   </a>
 </p>
 
