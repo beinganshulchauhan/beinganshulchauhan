@@ -54,7 +54,8 @@ I'm Anshul Chauhan, a Computer Science student specializing in Frontend developm
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,aftereffects,canva&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,pycharm,photoshop,aftereffects&theme=light" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
   </a>
 </p>
 
